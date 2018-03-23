@@ -1,3 +1,5 @@
+## Learned from Kaggler's KERNEL
+
 MAX_ROUNDS = 400
 OPTIMIZE_ROUNDS = False
 LEARNING_RATE = 0.07
